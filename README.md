@@ -54,9 +54,9 @@ GM% (Gross Margin Percentage): Indicator of profitability relative to sales.<br>
 
 
 # Skills Gained<br>
-- <u>*ETL in Excel:*</u> Applied ETL techniques using Power Query for data extraction and transformation.<br>
-- *Power Query Transformations:* Performed tasks like removing duplicates, splitting columns, and merging tables.<br>
-- *Date Table Creation:* Created custom date tables and converted calendar years into fiscal years and quarters.<br>
-- *Data Model Relationships:* Built relationships between tables in Power Pivot for cohesive data analysis.<br>
-- *DAX Measures:* Used DAX formulas to create measures in pivot tables for advanced calculations.<br>
-- *Pivot Table Insights:* Utilized pivot tables to summarize and extract key insights from data.<br>
+- **ETL in Excel:** Applied ETL techniques using Power Query for data extraction and transformation.<br>
+- **Power Query Transformations:** Performed tasks like removing duplicates, splitting columns, and merging tables.<br>
+- **Date Table Creation:** Created custom date tables and converted calendar years into fiscal years and quarters.<br>
+- **Data Model Relationships:** Built relationships between tables in Power Pivot for cohesive data analysis.<br>
+- **DAX Measures:** Used DAX formulas to create measures in pivot tables for advanced calculations.<br>
+- **Pivot Table Insights:** Utilized pivot tables to summarize and extract key insights from data.<br>
