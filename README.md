@@ -23,3 +23,16 @@ Identify Focus Areas: This report highlights which markets require increased att
 Evaluate Competitor Presence: Meeting or exceeding targets in certain regions may indicate low competitive pressure, enabling a continued focus on retention rather than aggressive growth strategies.<br>
 <br>
 Strategic Improvement: In regions where targets are not met, the report helps identify areas for improvement. This insight supports AtliQ in refining business strategies to better capture market share and drive growth in these underperforming regions.<br>
+
+
+
+# Financial report<br>
+
+**Key Metrics Analyzed:**
+Net Sales: Total revenue generated.<br>
+COGS (Cost of Goods Sold): Direct costs attributed to the production of goods sold.<br>
+Gross Margin: Difference between net sales and COGS.<br>
+GM% (Gross Margin Percentage): Indicator of profitability relative to sales.<br>
+<br>
+### 1. P&L by Year<br>
+
