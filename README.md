@@ -28,11 +28,19 @@ Strategic Improvement: In regions where targets are not met, the report helps id
 
 # Financial report<br>
 
-**Key Metrics Analyzed:**
+**Key Metrics Analyzed:**<br>
 Net Sales: Total revenue generated.<br>
 COGS (Cost of Goods Sold): Direct costs attributed to the production of goods sold.<br>
 Gross Margin: Difference between net sales and COGS.<br>
 GM% (Gross Margin Percentage): Indicator of profitability relative to sales.<br>
 <br>
 ### 1. P&L by Year<br>
+**Objective:** Develop annual and quarterly views of financial performance to monitor trends over time, providing insights into AtliQ’s profitability.<br>
+<br>
+**Purpose:**
+Profitability Insight: Determine whether AtliQ achieved a profit or incurred a loss for each fiscal year.<br>
+<br>
+Trend Analysis: Track annual and quarterly trends in financial performance, highlighting areas of growth and opportunities for cost reduction.<br>
+<br>
+Year-over-Year Comparisons: Calculate and analyze the percentage increase or decrease in key metrics between consecutive years, helping identify growth patterns or areas needing strategic adjustments.<br>
 
