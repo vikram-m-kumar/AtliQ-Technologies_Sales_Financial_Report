@@ -32,7 +32,7 @@ COGS (Cost of Goods Sold): Direct costs attributed to the production of goods so
 Gross Margin: Difference between net sales and COGS.<br>
 GM% (Gross Margin Percentage): Indicator of profitability relative to sales.<br>
 <br>
-### 1. P&L by Year, Months<br>
+### 1. P&L by Year & Months<br>
 - **Objective:** Develop annual and quarterly views of financial performance to monitor trends over time, providing insights into AtliQ’s profitability.<br>
 
 - **Profitability Insight:** Determine whether AtliQ achieved a profit or incurred a loss for each fiscal year.<br>
@@ -54,9 +54,9 @@ GM% (Gross Margin Percentage): Indicator of profitability relative to sales.<br>
 
 
 # Skills Gained<br>
-- ETL in Excel: Applied ETL techniques using Power Query for data extraction and transformation.<br>
-- Power Query Transformations: Performed tasks like removing duplicates, splitting columns, and merging tables.<br>
-- Date Table Creation: Created custom date tables and converted calendar years into fiscal years and quarters.<br>
-- Data Model Relationships: Built relationships between tables in Power Pivot for cohesive data analysis.<br>
-- DAX Measures: Used DAX formulas to create measures in pivot tables for advanced calculations.<br>
-- Pivot Table Insights: Utilized pivot tables to summarize and extract key insights from data.<br>
+- **ETL in Excel:** Applied ETL techniques using Power Query for data extraction and transformation.<br>
+- **Power Query Transformations:** Performed tasks like removing duplicates, splitting columns, and merging tables.<br>
+- **Date Table Creation:** Created custom date tables and converted calendar years into fiscal years and quarters.<br>
+- **Data Model Relationships:** Built relationships between tables in Power Pivot for cohesive data analysis.<br>
+- **DAX Measures:** Used DAX formulas to create measures in pivot tables for advanced calculations.<br>
+- **Pivot Table Insights:* Utilized pivot tables to summarize and extract key insights from data.<br>
