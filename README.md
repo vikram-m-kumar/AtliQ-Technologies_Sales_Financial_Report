@@ -32,7 +32,7 @@ COGS (Cost of Goods Sold): Direct costs attributed to the production of goods so
 Gross Margin: Difference between net sales and COGS.<br>
 GM% (Gross Margin Percentage): Indicator of profitability relative to sales.<br>
 <br>
-### 1. P&L by Year<br>
+### 1. P&L by Year, Months<br>
 **Objective:** Develop annual and quarterly views of financial performance to monitor trends over time, providing insights into AtliQ’s profitability.<br>
 <br>
 **Profitability Insight:** Determine whether AtliQ achieved a profit or incurred a loss for each fiscal year.<br>
@@ -40,4 +40,13 @@ GM% (Gross Margin Percentage): Indicator of profitability relative to sales.<br>
 **Trend Analysis:** Track annual and quarterly trends in financial performance, highlighting areas of growth and opportunities for cost reduction.<br>
 <br>
 **Year-over-Year Comparisons:** Calculate and analyze the percentage increase or decrease in key metrics between consecutive years, helping identify growth patterns or areas needing strategic adjustments.<br>
+
+### 2. P&L by Market<br>
+**Objective:** Analyze profit and loss across different markets (countries) where AtliQ operates to assess regional profitability.<br>
+
+**Regional Profitability Insight:** Understand the specific profit or loss generated in each market, providing a clear picture of financial performance at a country level.<BR>
+
+**Strategic Resource Allocation:** Identify high-performing regions where AtliQ can continue its focus and low-performing markets that may require strategic adjustments or additional investment.<br>
+
+**Localized Financial Trends:** Evaluate market-specific trends to better inform decision-making for each region, aiding in effective budgeting, forecasting, and market expansion efforts.<br>
 
