@@ -7,11 +7,11 @@ This project for AtliQ Technologies focuses on providing insightful sales and fi
 - **Objective:** Measure and compare customer performance metrics, focusing on trends and key contributors to revenue.<br>
 
 - **Data:** Net sales data of all customers for AtliQ worldwide.<br>
-<br>
+
 - **Time Period:** Years 2019, 2020, and 2021.<br>
-<br>
+
 - **Purpose:** Identify top-performing customers, analyze revenue trends, and recognize key contributors to AtliQ's revenue growth over time.<br>
-<br>
+
 
 ### 2. Market Performance vs Targets<br>
 - **Objective:** Conduct a comprehensive comparison of market performance against predefined annual sales targets for each country where AtliQ operates.<br>
