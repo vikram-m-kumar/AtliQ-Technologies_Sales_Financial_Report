@@ -53,7 +53,7 @@ GM% (Gross Margin Percentage): Indicator of profitability relative to sales.<br>
 
 ### 3. GM% by Quarters(sub-zone)
 
-- **Objective:Analyze** Gross Margin Percentage (GM%) by subzone (region/territory) across 2019, 2020, and 2021, with a focus on identifying profitability trends, seasonal fluctuations, and regional performance.
+- **Objective:** Analyze Gross Margin Percentage (GM%) by subzone (region/territory) across 2019, 2020, and 2021, with a focus on identifying profitability trends, seasonal fluctuations, and regional performance.
 
 - **Seasonal Profitability Trends:** Identify seasonal GM% fluctuations, showing periods of higher or lower profitability.
   
